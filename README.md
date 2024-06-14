@@ -24,12 +24,12 @@ Launch ESP8266 and connected to configured WiFi
 
  
 ![image](https://github.com/William284613/ESP-based-Environmental-Monitoring-System-with-XAMPP-localhost/assets/92504689/0b0f8b32-1dd4-40a2-b909-1930956688ed)
-Figure 5.1 Create Database in Xampp localhost 
+Create Database in Xampp localhost 
  
 ![image](https://github.com/William284613/ESP-based-Environmental-Monitoring-System-with-XAMPP-localhost/assets/92504689/636f2616-1ddf-46d7-9c62-7bc67c1c3569)
-Figure 5.2 Reading Values Successfully record in database
+Reading Values Successfully record in database
 
  
-![Uploading image.png…]()
-Figure 5.3 HTML web interface shown the last 10 readings with full valid data
+![image](https://github.com/William284613/ESP-based-Environmental-Monitoring-System-with-XAMPP-localhost/assets/92504689/75ad5a15-4663-40ce-acd8-8a5cc6a64c38)
+HTML web interface shown the last 10 readings with full valid data
 
