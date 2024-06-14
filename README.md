@@ -12,10 +12,11 @@ WILLIAM NG WEI YI	284613
 
 Project Instruction:
 1. launch xampp server
-2. create database named : environment_monitor
-3. import midterm-sensor-databse.sql in the databse
-4. launch esp8266 and wait for wifi connection
-5. access system with the esp ip address 
+   - create a file and save both .php save in xampp/htdocs
+3. create database named : environment_monitor
+4. import midterm-sensor-databse.sql in the databse
+5. launch esp8266 and wait for wifi connection
+6. access system with the esp ip address 
 
 RESULT
  
